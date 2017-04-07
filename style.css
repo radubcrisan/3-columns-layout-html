@@ -1,0 +1,30 @@
+
+
+.header {
+    background-color: lightblue;
+}
+.content-wrapper {
+    height: 100px;
+}
+.content-wrapper .sidebar-left {
+    background-color: lightgreen;
+    float: left;
+    height: 100%;
+    width: 30%;
+}
+.content-wrapper .content-main {
+    background-color: burlywood;
+    float: left;
+    height: 100%;
+    width: 50%;
+}
+.content-wrapper .sidebar-right {
+    background-color: lightseagreen;
+    float: right;
+    height: 100%;
+    width: 20%;
+}
+.footer {
+    background-color: lightsalmon;
+    clear: both;
+}
